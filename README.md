@@ -100,8 +100,6 @@ santander-customer-transaction-prediction/
     └── external/           # optional, clearly attributed group comparisons
 ```
 
-The provided notebooks should be renamed to the filenames above when publishing (removing version suffixes such as `(5)`), or the README links below should be adjusted to match the uploaded filenames.
-
 ## Notebooks
 
 | Notebook | Content |
@@ -149,4 +147,3 @@ This project was completed within a **three-person university group**. My docume
 
 ---
 
-**Project context:** Scientific Programming and Data Analysis / Advanced Data Analytics, Justus Liebig University Giessen, summer semester 2026.
